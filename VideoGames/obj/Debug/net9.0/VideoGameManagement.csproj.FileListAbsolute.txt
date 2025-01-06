@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\VideoGames\bin\Debug\net9.0\VideoGameManagement.exe
+C:\Users\Admin\source\repos\VideoGames\bin\Debug\net9.0\VideoGameManagement.deps.json
+C:\Users\Admin\source\repos\VideoGames\bin\Debug\net9.0\VideoGameManagement.runtimeconfig.json
+C:\Users\Admin\source\repos\VideoGames\bin\Debug\net9.0\VideoGameManagement.dll
+C:\Users\Admin\source\repos\VideoGames\bin\Debug\net9.0\VideoGameManagement.pdb
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.dll
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\refint\VideoGameManagement.dll
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.pdb
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\VideoGameManagement.genruntimeconfig.cache
+C:\Users\Admin\source\repos\VideoGames\obj\Debug\net9.0\ref\VideoGameManagement.dll
