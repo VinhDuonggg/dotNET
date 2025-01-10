@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\part1A2\bin\Debug\net9.0\part1A2.exe
+C:\Users\Admin\source\repos\part1A2\bin\Debug\net9.0\part1A2.deps.json
+C:\Users\Admin\source\repos\part1A2\bin\Debug\net9.0\part1A2.runtimeconfig.json
+C:\Users\Admin\source\repos\part1A2\bin\Debug\net9.0\part1A2.dll
+C:\Users\Admin\source\repos\part1A2\bin\Debug\net9.0\part1A2.pdb
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.dll
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\refint\part1A2.dll
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.pdb
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\part1A2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\part1A2\obj\Debug\net9.0\ref\part1A2.dll
