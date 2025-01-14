@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\VideoGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:views\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\framework\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:framework\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|c:\\users\\admin\\source\\repos\\videogames\\videogamemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82E942D3-9F1F-4176-B43A-6732A643BDB4}|VideoGameManagement.csproj|solutionrelative:videogamemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\c47039e5-d4f6-4bab-846f-5c9cba13f76e_dotNET-main.zip.76e\\dotNET-main\\VideoGames\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameView.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Views\\GameView.cs",
+              "RelativeDocumentMoniker": "Views\\GameView.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Views\\GameView.cs",
+              "RelativeToolTip": "Views\\GameView.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:05:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Views\\MainView.cs",
+              "RelativeToolTip": "Views\\MainView.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:04:35.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:59:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Router.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Framework\\Router.cs",
+              "RelativeDocumentMoniker": "Framework\\Router.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Framework\\Router.cs",
+              "RelativeToolTip": "Framework\\Router.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:29:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:14:29.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Controllers\\MainController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:13:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:13:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:06:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VideoGameManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VideoGames\\VideoGameManagement.csproj",
+              "RelativeDocumentMoniker": "VideoGameManagement.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VideoGames\\VideoGameManagement.csproj",
+              "RelativeToolTip": "VideoGameManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T15:05:54.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\c47039e5-d4f6-4bab-846f-5c9cba13f76e_dotNET-main.zip.76e\\dotNET-main\\VideoGames\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\c47039e5-d4f6-4bab-846f-5c9cba13f76e_dotNET-main.zip.76e\\dotNET-main\\VideoGames\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\c47039e5-d4f6-4bab-846f-5c9cba13f76e_dotNET-main.zip.76e\\dotNET-main\\VideoGames\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\c47039e5-d4f6-4bab-846f-5c9cba13f76e_dotNET-main.zip.76e\\dotNET-main\\VideoGames\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:54:29.747Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
